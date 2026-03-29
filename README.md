@@ -28,7 +28,12 @@ To formulate a C program to convert a decimal number into its binary equivalent 
 ### Step 8: 
    Stop
 # Program:
+<img width="791" height="615" alt="Screenshot 2025-12-26 182304" src="https://github.com/user-attachments/assets/0733f2a8-05d0-43b0-9c7e-48fb00aff7a8" />
+
 # Output:
+
+<img width="815" height="228" alt="Screenshot 2025-12-26 182312" src="https://github.com/user-attachments/assets/02e818b6-fe2b-46f0-b011-98deb5698e7d" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -67,7 +72,15 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 9: 
   Stop
 # Program:
+
+<img width="785" height="612" alt="Screenshot 2025-12-26 183018" src="https://github.com/user-attachments/assets/77a6cf77-6d1c-41f0-b634-b7e58d5db485" />
+
+<img width="792" height="629" alt="Screenshot 2025-12-26 183029" src="https://github.com/user-attachments/assets/82c1c5af-74ce-496f-8158-d047f47ecfac" />
+
 # Output:
+
+<img width="822" height="341" alt="Screenshot 2025-12-26 183039" src="https://github.com/user-attachments/assets/6035596b-470a-49e3-89ff-33bc86257c7d" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -101,7 +114,13 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 10: 
   Stop
 # Program:
+<img width="812" height="566" alt="Screenshot 2025-12-26 183259" src="https://github.com/user-attachments/assets/50b28826-b878-4f30-9d55-531bd25697b6" />
+
+
 # Output:
+
+<img width="828" height="199" alt="Screenshot 2025-12-26 183308" src="https://github.com/user-attachments/assets/0c7e49af-3fe4-4357-9353-82559c4b3cd5" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -135,7 +154,13 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 8:
   Stop
 # Program:
+<img width="782" height="579" alt="Screenshot 2025-12-26 183514" src="https://github.com/user-attachments/assets/ef71a843-29f7-42c9-a991-b3dda55dcf28" />
+
+
 # Output:
+
+<img width="723" height="363" alt="Screenshot 2025-12-26 183523" src="https://github.com/user-attachments/assets/b6160954-53e7-44dc-8bf3-b931d9ae85d3" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -169,7 +194,12 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 8: 
   Stop
 # Program:
+<img width="787" height="609" alt="Screenshot 2025-12-26 183655" src="https://github.com/user-attachments/assets/bca3aa5c-51e9-409f-ae66-cc929543fbef" />
+<img width="800" height="465" alt="Screenshot 2025-12-26 183708" src="https://github.com/user-attachments/assets/8448cbab-6908-478b-bfe6-33e9c3e075d9" />
+
 # Output:
+
+<img width="842" height="207" alt="Screenshot 2025-12-26 183717" src="https://github.com/user-attachments/assets/6936f8b2-fc55-468e-b05c-b04f5c13b7f2" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
-
